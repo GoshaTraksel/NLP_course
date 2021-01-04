@@ -1,3 +1,5 @@
 # NLP course
-My progress on the NLP course from Yandex Data School\
-Link: [tap to go](https://github.com/yandexdataschool/nlp_course)
+
+- [week01](https://github.com/yandexdataschool/nlp_course/blob/2020/week01_embeddings) **Word embeddings**
+  
+  - [homework](https://github.com/GoshaTraksel/NLP_course/tree/main/week01_embeddings)
